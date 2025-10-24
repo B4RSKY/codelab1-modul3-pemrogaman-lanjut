@@ -5,6 +5,6 @@ public class Main {
 
         int hasil = angkaPertama + angkaKedua;
 
-        System.out.println("Hasil " + hasil);
+        System.out.println("Hasil Penjumlahan " + angkaPertama + " + " + angkaKedua + "adalah: " + hasil);
     }
 }
